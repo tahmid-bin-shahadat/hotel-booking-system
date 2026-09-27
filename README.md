@@ -62,3 +62,9 @@ java hotelsystem.HotelBookingSystem
 - Move room pricing/config to an external file
 - Add input validation for overlapping bookings
 - Migrate storage from Java serialization to a lightweight database (e.g. SQLite)
+
+
+https://github.com/user-attachments/assets/719d1031-faef-4979-92a6-a3c5be132274
+
+
+
